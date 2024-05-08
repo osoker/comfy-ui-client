@@ -15,6 +15,9 @@ To install `comfy-ui-client` in an existing project:
 npm install comfy-ui-client
 ```
 
+## Osoker's Branch Mod:
+主要修改文件格式相关的细节，更容易存储图片和查看效果。
+
 ## Example Usage
 
 ```ts
